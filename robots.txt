@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lifetime-coupon.pages.dev/sitemap.xml
